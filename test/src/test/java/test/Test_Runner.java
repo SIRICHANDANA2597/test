@@ -1,8 +1,9 @@
 package test;
-
+import org.junit.Test;
 public class Test_Runner {
 
-	public static void main(String[] args) {
+	@Test
+	public void Test() {
 		// TODO Auto-generated method stub
 System.out.println("its working");
 	}
